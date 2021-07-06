@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "778864477144",
+    "project_id": "riway-e9b10",
+    "storage_bucket": "riway-e9b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778864477144:android:ce2ad4161f620f4de9e8ad",
+        "android_client_info": {
+          "package_name": "com.example.riwaymember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778864477144-2qegdspj2pj1th8a92e4ofei9rsif9a2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riwaymember",
+            "certificate_hash": "abba93dd207da12c3c2ba4cce93b8f3901e2e486"
+          }
+        },
+        {
+          "client_id": "778864477144-gvi7s61m4gefg5l1t3n95edfgkavel7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4DhrO4N8BqmqgEuJq_js_RUsubdlvjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778864477144-gvi7s61m4gefg5l1t3n95edfgkavel7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778864477144-8f3abn05k8hbao881i7i2vuajrit255h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riwaymember"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778864477144:android:280ba25a30e08c6ae9e8ad",
+        "android_client_info": {
+          "package_name": "org.linphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778864477144-odgtp15bml5tne435tshj89sc90bdo58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.linphone",
+            "certificate_hash": "abba93dd207da12c3c2ba4cce93b8f3901e2e486"
+          }
+        },
+        {
+          "client_id": "778864477144-gvi7s61m4gefg5l1t3n95edfgkavel7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4DhrO4N8BqmqgEuJq_js_RUsubdlvjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778864477144-gvi7s61m4gefg5l1t3n95edfgkavel7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778864477144-8f3abn05k8hbao881i7i2vuajrit255h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riwaymember"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
